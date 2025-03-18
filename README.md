@@ -38,12 +38,12 @@ Other Tools: Pandas, NumPy, Pickle
 
 ```python main.py```
 
-📊 Model Performance
+📊 Model Performance:-
 Algorithm	Accuracy
 Naïve Bayes	85%
 KNN	80%
 
-🔥 Future Improvements
+🔥 Future Improvements:-
 ✅ Implement deep learning models (LSTM, BERT)
 ✅ Deploy the model as a web app
 ✅ Improve dataset preprocessing
