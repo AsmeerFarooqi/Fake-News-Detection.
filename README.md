@@ -1,4 +1,4 @@
-# Fake News Detection using Machine Learning
+# Fake News Detection Using Machine Learning
 
 🚀 Detecting Fake News with KNN & Naïve Bayes
 📌 Project Overview
@@ -28,7 +28,7 @@ Other Tools: Pandas, NumPy, Pickle
 │── 📜 requirements.txt     # Required libraries  
 │── 📜 README.md            # Project documentation  
 
-🚀 How to Run the Project
+#🚀 How to Run the Project
 ```git clone https://github.com/yourusername/fake-news-detection.git```
 ```cd fake-news-detection```
 
@@ -38,12 +38,12 @@ Other Tools: Pandas, NumPy, Pickle
 
 ```python main.py```
 
-📊 Model Performance
+#📊 Model Performance
 Algorithm	Accuracy
 Naïve Bayes	85%
 KNN	80%
 
-🔥 Future Improvements
+#🔥 Future Improvements
 ✅ Implement deep learning models (LSTM, BERT)
 ✅ Deploy the model as a web app
 ✅ Improve dataset preprocessing
