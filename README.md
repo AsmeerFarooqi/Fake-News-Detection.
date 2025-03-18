@@ -1,6 +1,6 @@
-#Fake News Detection using Machine Learning
-🚀 Detecting Fake News with KNN & Naïve Bayes
+# Fake News Detection using Machine Learning
 
+🚀 Detecting Fake News with KNN & Naïve Bayes
 📌 Project Overview
 This project aims to classify news articles as real or fake using machine learning algorithms. The model is trained on a dataset containing fake and real news articles and predicts whether a given news article is trustworthy or not.
 
@@ -42,6 +42,7 @@ Other Tools: Pandas, NumPy, Pickle
 Algorithm	Accuracy
 Naïve Bayes	85%
 KNN	80%
+
 🔥 Future Improvements
 ✅ Implement deep learning models (LSTM, BERT)
 ✅ Deploy the model as a web app
